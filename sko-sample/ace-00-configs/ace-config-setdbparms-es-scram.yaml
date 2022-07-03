@@ -6,5 +6,5 @@ metadata:
 spec:
   type: setdbparms
   description: Credentials to connect using SCRAM to ES Demo Cluster
-  data: dHJ1c3RzdG9yZTo6dHJ1c3RzdG9yZVBhc3MgZHVtbXkgRnlZQTM1RzZRc2hNCmthZmthOjplc2RlbW9TZWNJZCBhY2UtdXNlciAK
+  data: dHJ1c3RzdG9yZTo6dHJ1c3RzdG9yZVBhc3MgZHVtbXkgRnlZQTM1RzZRc2hNCmthZmthOjplc2RlbW9TZWNJZCBhY2UtdXNlciBWa2txOTBrTUlLUkIK
   
